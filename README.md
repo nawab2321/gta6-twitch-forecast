@@ -34,3 +34,15 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 The grader runs the same entry point with one case file in the input directory and the default `/input` and `/output` paths.
+
+---
+
+## make.fun Bounty
+
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/nawab2321/gta6-twitch-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/nawab2321/gta6-twitch-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Competition: https://make.fun/bounty/gta6-twitch-ccu-forecast-01
